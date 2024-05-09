@@ -1,2 +1,10 @@
-build
-node_modules
+# Ignorar a pasta build
+/build
+
+# Ignorar a pasta node_modules
+/node_modules
+
+# Ignorar a pasta temp
+/temp
+
+.DS_Store
